@@ -26,7 +26,7 @@ env:
   DT_PATH: device/huawei/kiwi
   # 这里填写你要编译的机型代号
   # Fill in the model code you want to compile here
-  DEVICENAME: gemini
+  DEVICENAME: crux
   # 以下的这些是用来修复编译时的错误
   # The following are used to fix compilation errors
   # 第一个是修复不能找到设备的bug，如需开启，请把它设为true
